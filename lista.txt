@@ -1,0 +1,11 @@
+mail
+www
+firewall
+intranet
+rh
+ead
+admin
+acesso
+financeiro
+publico
+ftp
